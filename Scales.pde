@@ -9,7 +9,6 @@ void draw() {
       {
         scale(x,y);
       }
-      System.out.println();
     }
 }    
 void scale(int x, int y) {
